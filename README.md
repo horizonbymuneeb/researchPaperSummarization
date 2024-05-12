@@ -2,7 +2,6 @@
 
 This model is a BART model pre-trained on English language, and fine-tuned on CNN Daily Mail. It was introduced in the paper [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) by Lewis et al. and first released in [this repository](https://github.com/pytorch/fairseq/tree/master/examples/bart).
 
-> **Disclaimer:** The team releasing BART did not write a model card for this model so this model card has been written by the Hugging Face team.
 
 ## Model description
 
